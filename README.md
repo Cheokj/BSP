@@ -17,3 +17,7 @@ KiTS：https://kits19.grand-challenge.org/
 AMOS：https://amos22.grand-challenge.org/
 
 BTCV：https://www.synapse.org/Synapse:syn3193805/wiki/89480
+
+## Run
+
+## Experimental results

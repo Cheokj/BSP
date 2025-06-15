@@ -6,3 +6,14 @@ Our code framework is designed following the structure of Universal Model (MIA-2
 ## Requirements
 
 ## Datasets
+LiTs：https://competitions.codalab.org/competitions/17094
+
+MSD_task09：http://medicaldecathlon.com/
+
+MSD_task07：http://medicaldecathlon.com/
+
+KiTS：https://kits19.grand-challenge.org/
+
+AMOS：https://amos22.grand-challenge.org/
+
+BTCV：https://www.synapse.org/Synapse:syn3193805/wiki/89480

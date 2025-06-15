@@ -6,7 +6,7 @@ Our code framework is designed following the structure of Universal Model (MIA-2
 ## Requirements
 
 ## Datasets
-LiTs：https://competitions.codalab.org/competitions/17094
+LiTS：https://competitions.codalab.org/competitions/17094
 
 MSD_task09：http://medicaldecathlon.com/
 

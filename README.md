@@ -4,6 +4,14 @@ This is the implementation of BSP (Boosting Stability and Plasticity in Class-In
 Our code framework is designed following the structure of Universal Model (MIA-2024) (https://github.com/ljwztc/CLIP-Driven-Universal-Model) for medical imaging experiment and CoinSeg (ICCV-2023) (https://github.com/zkzhang98/CoinSeg) for natural imaging experiment.
 
 ## Requirements
+1. CUDA 11.6
+2. python(3.8.0)
+3. pytorch(1.13.1+cu116)
+4. numpy(1.24.4)
+5. einops(0.8.0)
+6. monai(1.1.0)
+7. matplotlib
+8. pillow
 
 ## Datasets
 LiTS：https://competitions.codalab.org/competitions/17094

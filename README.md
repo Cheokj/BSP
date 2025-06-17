@@ -28,7 +28,7 @@ AMOS：https://amos22.grand-challenge.org/
 BTCV：https://www.synapse.org/Synapse:syn3193805/wiki/89480
 
 ### Natural Imaging Segmentation
-Download VOC 2012 by running ./natural_imaging_segmentation/datasets/data/download_voc.sh
+Download VOC 2012 by running './natural_imaging_segmentation/datasets/data/download_voc.sh'
 
 Organize datasets in the following structure.
 <pre> path_to_your_dataset/ 
@@ -40,6 +40,5 @@ Organize datasets in the following structure.
   │ └── proposal100/  
 </pre>
 You can get proposal100 here (provided by MicroSeg) (https://github.com/zkzhang98/MicroSeg)
-## Run
 
 ## Experimental results

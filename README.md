@@ -37,7 +37,7 @@ Organize datasets in the following structure.
   │ ├── SegmentationClassAug/ 
   │ └── proposal100/  
 </pre>
-
+You can get proposal100 here(provided by MicroSeg)(https://github.com/zkzhang98/MicroSeg)
 ## Run
 
 ## Experimental results

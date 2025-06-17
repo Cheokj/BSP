@@ -51,3 +51,4 @@ Organize datasets in the following structure.
 You can get proposal100 here (provided by MicroSeg) (https://github.com/zkzhang98/MicroSeg)
 
 ## Experimental results
+![medical_internal_result](./results/medical_internal_result.png)

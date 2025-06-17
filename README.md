@@ -14,6 +14,7 @@ Our code framework is designed following the structure of Universal Model (MIA-2
 8. pillow
 
 ## Datasets
+### Multi-Organ Segmentation
 LiTS：https://competitions.codalab.org/competitions/17094
 
 MSD_task09：http://medicaldecathlon.com/
@@ -25,6 +26,10 @@ KiTS：https://kits19.grand-challenge.org/
 AMOS：https://amos22.grand-challenge.org/
 
 BTCV：https://www.synapse.org/Synapse:syn3193805/wiki/89480
+
+### Natural Imaging Segmentation
+Organize datasets in the following structure.
+<pre> \`\`\` path_to_your_dataset/ ├── VOC2012/ │ ├── Annotations/ │ ├── ImageSet/ │ ├── JPEGImages/ │ ├── SegmentationClassAug/ │ └── proposal100/ ├── ADEChallengeData2016/ │ ├── annotations/ │ │ ├── training/ │ │ └── validation/ │ ├── images/ │ │ ├── training/ │ │ └── validation/ │ ├── proposal_adetrain/ │ └── proposal_adeval/ \`\`\` </pre>
 
 ## Run
 

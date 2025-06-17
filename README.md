@@ -33,9 +33,11 @@ cd multi_organ_segmentation/pretrained_weights/
 wget https://www.dropbox.com/s/po2zvqylwr0fuek/swin_unetr.base_5000ep_f48_lr2e-4_pretrained.pt
 ```
 
-
 ### Natural Imaging Segmentation
-Download VOC 2012 by running './natural_imaging_segmentation/datasets/data/download_voc.sh'
+Download VOC 2012 by running 
+```bash
+bash ./natural_imaging_segmentation/datasets/data/download_voc.sh
+```
 
 Organize datasets in the following structure.
 <pre> path_to_your_dataset/ 

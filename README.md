@@ -42,7 +42,7 @@ Organize datasets in the following structure.
 ```bash
   path_to_your_dataset/ 
   ├── VOC2012/
-  ├── Annotations/ 
+  │ ├── Annotations/ 
   │ ├── ImageSet/ 
   │ ├── JPEGImages/ 
   │ ├── SegmentationClassAug/ 

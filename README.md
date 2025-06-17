@@ -48,7 +48,7 @@ Organize datasets in the following structure.
   │ ├── SegmentationClassAug/ 
   │ └── proposal100/  
 ```
-You can get [proposal100](https://github.com/zkzhang98/MicroSeg) here (provided by MicroSeg(NeurIPS'2022)).
+You can get [proposal100](https://drive.google.com/file/d/1FxoyVa0I1IEwtW2ykGlNf-JkOYkK80E6/view) here (provided by [MicroSeg](https://github.com/zkzhang98/MicroSeg)(NeurIPS'2022)).
 
 ## Experimental results
 ### 1. Medical imaging experimental results on the internal test datasets

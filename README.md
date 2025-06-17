@@ -51,4 +51,9 @@ Organize datasets in the following structure.
 You can get proposal100 here (provided by MicroSeg) (https://github.com/zkzhang98/MicroSeg)
 
 ## Experimental results
+### 1. Medical imaging experimental results on the internal test datasets
 ![medical_internal_result](./results/medical_internal_result.png)
+### 2. Medical imaging experimental results on the external test datasets
+![medical_external_result](./results/medical_external_result.png)
+### 3. Natural imaging experimental results
+![natural_result](./results/natural_voc_result.png)

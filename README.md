@@ -28,8 +28,11 @@ AMOS：https://amos22.grand-challenge.org/
 BTCV：https://www.synapse.org/Synapse:syn3193805/wiki/89480
 
 ### Download Pretrained Weights
-cd multi_organ segmentation/pretrained_weights/
+```bash
+cd multi_organ_segmentation/pretrained_weights/
 wget https://www.dropbox.com/s/po2zvqylwr0fuek/swin_unetr.base_5000ep_f48_lr2e-4_pretrained.pt
+```
+
 
 ### Natural Imaging Segmentation
 Download VOC 2012 by running './natural_imaging_segmentation/datasets/data/download_voc.sh'

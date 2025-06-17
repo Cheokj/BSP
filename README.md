@@ -29,6 +29,7 @@ BTCV：https://www.synapse.org/Synapse:syn3193805/wiki/89480
 
 ### Natural Imaging Segmentation
 Download VOC 2012 by running ./natural_imaging_segmentation/datasets/data/download_voc.sh
+
 Organize datasets in the following structure.
 <pre> path_to_your_dataset/ 
   ├── VOC2012/

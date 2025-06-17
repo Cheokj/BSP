@@ -29,8 +29,7 @@ BTCV：https://www.synapse.org/Synapse:syn3193805/wiki/89480
 
 ### Natural Imaging Segmentation
 Organize datasets in the following structure.
-<pre> 
-  path_to_your_dataset/ 
+<pre> path_to_your_dataset/ 
   ├── VOC2012/
   ├── Annotations/ 
   │ ├── ImageSet/ 
